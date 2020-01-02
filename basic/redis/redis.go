@@ -4,8 +4,8 @@ import (
 	"sync"
 
 	"github.com/go-redis/redis"
-	"github.com/zhushiqiang/micro-test/basic/config"
 	"github.com/micro/go-micro/util/log"
+	"github.com/zhushiqiang/micro-test/basic/config"
 )
 
 var (

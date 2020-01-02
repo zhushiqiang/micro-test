@@ -1,17 +1,16 @@
 package main
 
 import (
+	"fmt"
+	"github.com/micro/cli"
+	"github.com/micro/go-micro/registry"
 	"github.com/micro/go-micro/registry/etcd"
 	"github.com/micro/go-micro/util/log"
-	"github.com/micro/go-micro"
 	"github.com/zhushiqiang/micro-test/basic"
+	"github.com/zhushiqiang/micro-test/basic/config"
 	"user-srv/handler"
 	"user-srv/model"
-	"github.com/micro/cli"
-	"github.com/zhushiqiang/micro-test/basic/config"
 	user "user-srv/proto/user"
-	"github.com/micro/go-micro/registry"
-	"fmt"
 )
 
 func main() {
