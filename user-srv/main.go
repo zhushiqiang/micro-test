@@ -11,6 +11,7 @@ import (
 	"user-srv/handler"
 	"user-srv/model"
 	user "user-srv/proto/user"
+	"github.com/micro/go-micro"
 )
 
 func main() {
