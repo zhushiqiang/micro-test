@@ -10,7 +10,7 @@ import (
 	"github.com/zhushiqiang/micro-test/basic/config"
 	"user-srv/handler"
 	"user-srv/model"
-	user "user-srv/proto/user"
+	user "github.com/zhushiqiang/micro-test/proto/user"
 	"github.com/micro/go-micro"
 )
 

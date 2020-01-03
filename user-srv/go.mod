@@ -10,6 +10,6 @@ require (
 	github.com/micro/cli v0.2.0
 	github.com/micro/go-micro v1.18.0
 	github.com/nats-io/nats-server/v2 v2.1.2 // indirect
-	github.com/zhushiqiang/micro-test v0.0.0-20200102122219-5b5fc60db90f
+	github.com/zhushiqiang/micro-test v0.0.0-20200103013026-9ce2ab06a014
 	golang.org/x/crypto v0.0.0-20191227163750-53104e6ec876 // indirect
 )

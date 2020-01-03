@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	proto "user-srv/proto/user"
+	proto "github.com/zhushiqiang/micro-test/proto/user"
 )
 
 var (
