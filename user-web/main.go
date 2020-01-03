@@ -3,8 +3,8 @@ package main
 import (
         "fmt"
 
-        "user-web/basic"
-        "user-web/basic/config"
+        "github.com/zhushiqiang/micro-test/basic"
+        "github.com/zhushiqiang/micro-test/basic/config"
         "user-web/handler"
         "github.com/micro/cli"
         "github.com/micro/go-micro/registry"
