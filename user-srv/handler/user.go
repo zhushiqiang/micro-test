@@ -4,7 +4,7 @@ import (
 	"context"
 
 	us "user-srv/model/user"
-	s "user-srv/proto/user"
+	s "github.com/zhushiqiang/micro-test/proto/user"
 	"github.com/micro/go-micro/util/log"
 )
 
