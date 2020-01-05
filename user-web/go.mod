@@ -8,5 +8,5 @@ require (
 	github.com/golang/protobuf v1.3.2
 	github.com/micro/cli v0.2.0
 	github.com/micro/go-micro v1.18.0
-	github.com/zhushiqiang/micro-test v0.0.0-20200103013026-9ce2ab06a014
+	github.com/zhushiqiang/micro-test v0.0.0-20200105095719-08f7167deed6
 )
