@@ -1,5 +1,5 @@
 app:
   profiles:
-    include: etcd, db
+    include: etcd, db, redis
   jwt:
     secretKey: W6VjDud2W1kMG3BicbMNlGgI4ZfcoHtMGLWr
